@@ -78,4 +78,5 @@ VlnPlot(Plass, features = c("dd-Smed-v6-6208-0", "dd-Smed-v6-11968-0"))
 
 FeaturePlot(Plass, features = c("dd-Smed-v6-6208-0", "dd-Smed-v6-11968-0","dd-Smed-v6-432-0","dd-Smed-v6-19336-0","dd-Smed-v6-74478-0"))
 
+1*2
 
